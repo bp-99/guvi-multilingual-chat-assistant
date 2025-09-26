@@ -1,0 +1,2246 @@
+[
+  {
+    "Question":"What is GUVI?",
+    "Answer":"GUVI is an Indian ed-tech platform started in 2011 and incorporated in 2014 to offer technical education in Indian languages."
+  },
+  {
+    "Question":"What is the main goal of GUVI?",
+    "Answer":"To democratize tech education for non-English-speaking learners through native language courses."
+  },
+  {
+    "Question":"What domains do GUVI courses cover?",
+    "Answer":"Programming, Web Development, AI\/ML, Cybersecurity, UI\/UX, VLSI, Game Dev, CAD, and more."
+  },
+  {
+    "Question":"What are the types of learning modes in GUVI?",
+    "Answer":"Self-paced courses, Zen Class live programs, and practice portals."
+  },
+  {
+    "Question":"What are GUVI's free courses?",
+    "Answer":"Python, Java, ChatGPT & AI, JavaScript for Beginners, Data Engineering."
+  },
+  {
+    "Question":"What are GUVI's paid career programs?",
+    "Answer":"Full Stack Dev, Data Science, UI\/UX, Automation Testing, DevOps, CAD."
+  },
+  {
+    "Question":"What is CodeKata?",
+    "Answer":"A platform by GUVI for practicing programming challenges and earning rankings."
+  },
+  {
+    "Question":"What is WebKata?",
+    "Answer":"A platform to build front-end projects interactively."
+  },
+  {
+    "Question":"What is SQLKata?",
+    "Answer":"A tool for practicing SQL queries and debugging logic."
+  },
+  {
+    "Question":"Does GUVI provide certificates?",
+    "Answer":"Yes, after 100% course completion and quiz submission."
+  },
+  {
+    "Question":"Are GUVI certificates shareable?",
+    "Answer":"Yes, downloadable and LinkedIn-shareable."
+  },
+  {
+    "Question":"What career services does GUVI offer?",
+    "Answer":"Resume help, mock interviews, mentorship, and referrals."
+  },
+  {
+    "Question":"What is required for certification?",
+    "Answer":"Complete all lessons and quizzes with 100% progress."
+  },
+  {
+    "Question":"Are quizzes limited?",
+    "Answer":"No, unlimited attempts are allowed."
+  },
+  {
+    "Question":"What languages are GUVI courses in?",
+    "Answer":"Courses are available in Tamil, Hindi, Telugu, English, and more."
+  },
+  {
+    "Question":"What is a Programming Path?",
+    "Answer":"A learning sequence: Python,  Java,  DSA , SQL."
+  },
+  {
+    "Question":"What is a Data Science Path?",
+    "Answer":"ML & AI , Visualization, Power BI\/Tableau."
+  },
+  {
+    "Question":"What learning materials does GUVI provide?",
+    "Answer":"Blogs, PDFs, handbooks, interview tips."
+  },
+  {
+    "Question":"What are Geekoins?",
+    "Answer":"Gamified learning points you earn through GUVI activities."
+  },
+  {
+    "Question":"What are GUVI's platform strengths?",
+    "Answer":"Native language support, mentorship, affordability."
+  },
+  {
+    "Question":"What are some known issues on GUVI?",
+    "Answer":"Chat overlay bugs, buffering, UI glitches."
+  },
+  {
+    "Question":"Are there refunds?",
+    "Answer":"Refunds are limited and subject to approval."
+  },
+  {
+    "Question":"What is the Geekoins system in GUVI?",
+    "Answer":"The Geekoins system is a gamified learning feature where learners earn points through activities like solving problems and referring friends."
+  },
+  {
+    "Question":"What types of community rewards does GUVI offer?",
+    "Answer":"GUVI offers referral bonuses and access to a peer forum for doubt resolution."
+  },
+  {
+    "Question":"How is GUVI optimized for mobile users?",
+    "Answer":"GUVI has a mobile-responsive website and an app, but users may face issues like chat overlay blocking content and video buffering."
+  },
+  {
+    "Question":"What are the main benefits of learning on GUVI?",
+    "Answer":"GUVI offers multilingual access, practice-driven learning, live mentorship, free beginner courses, and community forums."
+  },
+  {
+    "Question":"What are the limitations of GUVI’s platform?",
+    "Answer":"Limitations include UI glitches, delays in accessing certificates, limited placement statistics, and no previews for paid content."
+  },
+  {
+    "Question":"What positive feedback do learners give about GUVI?",
+    "Answer":"Learners appreciate native language support, engaging mentors, and affordable pricing."
+  },
+  {
+    "Question":"What negative feedback do learners report about GUVI?",
+    "Answer":"Reported issues include platform glitches, limited refund options, and concerns with placement support."
+  },
+  {
+    "Question":"Who is GUVI ideal for?",
+    "Answer":"GUVI is ideal for learners who want to study tech in regional languages, get live mentorship, and work on real-world projects. It suits beginners, career changers, and those looking to upskill."
+  },
+  {
+    "Question":"Who founded GUVI and when?",
+    "Answer":"GUVI was founded by Arun Prakash, Sridevi Arun Prakash, and Balamurugan SP in 2011 and incorporated in 2014."
+  },
+  {
+    "Question":"Where is GUVI incubated or backed by?",
+    "Answer":"GUVI is incubated at IIT-Madras and supported by IIM-Ahmedabad and HCL."
+  },
+  {
+    "Question":"When was GUVI acquired by HCL Group?",
+    "Answer":"GUVI became a part of the HCL Group in 2021."
+  },
+  {
+    "Question":"How many learners use GUVI?",
+    "Answer":"Over 2 million learners have accessed GUVI for technology and career courses."
+  },
+  {
+    "Question":"What corporate partnerships does GUVI maintain?",
+    "Answer":"GUVI collaborates with Google, AICTE, Nasscom, IITs, and industry bodies for certification and outreach."
+  },
+  {
+    "Question":"In which languages are GUVI courses offered?",
+    "Answer":"Courses are available in English, Tamil, Telugu, Hindi, Kannada, Bengali, and more."
+  },
+  {
+    "Question":"Can I access GUVI on mobile devices?",
+    "Answer":"Yes, the GUVI platform works well on mobile browsers and has a dedicated Android app."
+  },
+  {
+    "Question":"Is there a GUVI app available?",
+    "Answer":"Yes, the GUVI app is available on the Google Play Store."
+  },
+  {
+    "Question":"What is Geekoins and how do I earn them?",
+    "Answer":"Geekoins are reward points earned by solving coding problems, completing tasks, or referring friends."
+  },
+  {
+    "Question":"How do referral programs work on GUVI?",
+    "Answer":"You refer friends via a unique code; when they join or purchase, you earn Geekoins or rewards."
+  },
+  {
+    "Question":"What is CodeKata?",
+    "Answer":"CodeKata is GUVI's coding practice platform with hundreds of coding problems and daily challenges."
+  },
+  {
+    "Question":"What is WebKata?",
+    "Answer":"WebKata allows learners to practice HTML, CSS, and JavaScript-based frontend challenges."
+  },
+  {
+    "Question":"What is SQLKata?",
+    "Answer":"SQLKata is a platform for learning and practicing SQL queries using real-time scenarios."
+  },
+  {
+    "Question":"What is DebugKata?",
+    "Answer":"DebugKata is a unique feature that helps you improve problem-solving by identifying and fixing broken code."
+  },
+  {
+    "Question":"Does GUVI offer free courses?",
+    "Answer":"Yes, GUVI offers many free courses with optional certification on topics like Python, Java, and AI."
+  },
+  {
+    "Question":"Are new courses added frequently?",
+    "Answer":"Yes, GUVI regularly adds new content to match industry trends and skill demands."
+  },
+  {
+    "Question":"Is there a community forum for learners?",
+    "Answer":"Yes, GUVI has an online forum for peer discussions, support, and announcements."
+  },
+  {
+    "Question":"What is the difference between Zen Class and self-paced courses?",
+    "Answer":"Self-paced courses are pre-recorded videos, while Zen Class is a live, mentor-led career program."
+  },
+  {
+    "Question":"Are Zen Class courses live or recorded?",
+    "Answer":"Zen Class includes live weekend classes with recordings available for revision."
+  },
+  {
+    "Question":"How long do Zen Class programs last?",
+    "Answer":"Zen Class programs typically range from 3 to 6 months depending on the track."
+  },
+  {
+    "Question":"Can working professionals join Zen Class?",
+    "Answer":"Yes, weekend batches are designed for working professionals and final-year students."
+  },
+  {
+    "Question":"Is mentorship part of Zen Class?",
+    "Answer":"Yes, one-on-one mentorship and career guidance is a key feature of Zen Class."
+  },
+  {
+    "Question":"Are projects included in courses?",
+    "Answer":"Yes, both Zen Class and self-paced courses include real-world projects and capstones."
+  },
+  {
+    "Question":"Can I change course language midway?",
+    "Answer":"Language settings depend on the course. Some support switching; others are fixed."
+  },
+  {
+    "Question":"Are offline downloads available?",
+    "Answer":"Currently, GUVI supports only streaming content; offline download isnâ€™t enabled."
+  },
+  {
+    "Question":"Are handbooks or transcripts available?",
+    "Answer":"Yes, GUVI provides free handbooks for Python, Java, HTML, CSS, React, and more."
+  },
+  {
+    "Question":"Can I pause or resume learning anytime?",
+    "Answer":"Yes, your progress is saved, and you can resume from where you left off."
+  },
+  {
+    "Question":"Do courses include real-world use cases?",
+    "Answer":"Yes, GUVI includes industry-aligned examples and case studies in many courses."
+  },
+  {
+    "Question":"Is there an entry test for Zen Class?",
+    "Answer":"Some programs require a basic assessment, while others offer open registration."
+  },
+  {
+    "Question":"Does GUVI teach from scratch?",
+    "Answer":"Yes, beginner-level content is available for most technologies."
+  },
+  {
+    "Question":"Can I skip beginner modules?",
+    "Answer":"Yes, you can skip ahead, but it is advised to follow the curriculum flow."
+  },
+  {
+    "Question":"How do I get certified?",
+    "Answer":"Complete all videos and quizzes, then click \"Get Certified\" on the course dashboard."
+  },
+  {
+    "Question":"What is required for 100% progress?",
+    "Answer":"You must watch every video and pass all quizzes to unlock the certificate."
+  },
+  {
+    "Question":"Are quizzes compulsory?",
+    "Answer":"Yes, quizzes are mandatory for course completion and certification."
+  },
+  {
+    "Question":"Is certification available for free courses?",
+    "Answer":"Yes, some free courses offer certificates upon full completion."
+  },
+  {
+    "Question":"Are Zen Class certificates different?",
+    "Answer":"Yes, Zen Class often provides co-branded certificates with institutions like IIT-M."
+  },
+  {
+    "Question":"Can I print or download my certificate?",
+    "Answer":"Yes, certificates are downloadable as PDF and printable."
+  },
+  {
+    "Question":"Where do I find the certificate?",
+    "Answer":"It is available on your course page once you complete all required steps."
+  },
+  {
+    "Question":"Why is my certificate not showing?",
+    "Answer":"Try refreshing, clearing browser cache, or switching to a desktop browser."
+  },
+  {
+    "Question":"How do I regenerate my certificate?",
+    "Answer":"Go to your course dashboard and click Regenerate Certificate."
+  },
+  {
+    "Question":"Can I change my name on the certificate?",
+    "Answer":"Yes, edit your profile and then regenerate the certificate."
+  },
+  {
+    "Question":"How many times can I attempt a quiz?",
+    "Answer":"You can attempt quizzes unlimited times until all answers are correct."
+  },
+  {
+    "Question":"What if I fail a quiz?",
+    "Answer":"You can retake it without limit. Certification requires correct answers."
+  },
+  {
+    "Question":"Can I get multiple certificates?",
+    "Answer":"Yes, each course completed generates its own certificate."
+  },
+  {
+    "Question":"Are GUVI certificates industry-recognized?",
+    "Answer":"Yes, many are co-certified by IIT-Madras and well accepted in the job market."
+  },
+  {
+    "Question":"How do I report bugs?",
+    "Answer":"Contact support via email or raise a ticket on the platform."
+  },
+  {
+    "Question":"What browser should I use?",
+    "Answer":"Chrome is recommended for best compatibility."
+  },
+  {
+    "Question":"Why is the chat popup blocking my video?",
+    "Answer":"This is a known issue try expanding video to fullscreen or use browser zoom-out."
+  },
+  {
+    "Question":"How do I reset my password?",
+    "Answer":"Click Forgot Password on the login page and follow the email instructions."
+  },
+  {
+    "Question":"What if I forget my login credentials?",
+    "Answer":"Use the password reset option or contact support."
+  },
+  {
+    "Question":"Can I update my registered email?",
+    "Answer":"Yes, contact GUVI support with identity proof to change your email."
+  },
+  {
+    "Question":"Is login secure?",
+    "Answer":"Yes, GUVI uses encrypted login and standard data protection practices."
+  },
+  {
+    "Question":"Are cookies required?",
+    "Answer":"Yes, cookies help save your session and progress data."
+  },
+  {
+    "Question":"Is two-factor authentication available?",
+    "Answer":"Not currently, but platform security is actively managed."
+  },
+  {
+    "Question":"Do videos work on slow internet?",
+    "Answer":"Lower resolution playback is supported for slower connections."
+  },
+  {
+    "Question":"Can I link GUVI to LinkedIn?",
+    "Answer":"Yes, add certificates to your LinkedIn profile manually."
+  },
+  {
+    "Question":"Is there a preview of course content?",
+    "Answer":"Previews are limited, but blogs and handbooks offer course insights."
+  },
+  {
+    "Question":"How can I request a course in my language?",
+    "Answer":"Email GUVI support to request content in additional languages."
+  },
+  {
+    "Question":"Are self-paced courses always free?",
+    "Answer":"Some are free; others require one-time payment for access and certificates."
+  },
+  {
+    "Question":"How much does Zen Class cost?",
+    "Answer":"It varies by course, typically between â‚¹50,000 and â‚¹1,00,000."
+  },
+  {
+    "Question":"Are EMI options available?",
+    "Answer":"Yes, no-cost EMI plans are available with Zen Class programs."
+  },
+  {
+    "Question":"Can I use Geekoins for discounts?",
+    "Answer":"Yes, Geekoins can be redeemed for discounts on select courses."
+  },
+  {
+    "Question":"How does the referral program work?",
+    "Answer":"Refer friends and earn Geekoins or cash when they enroll."
+  },
+  {
+    "Question":"Are Zen Class fees refundable?",
+    "Answer":"Refunds are limited; check specific program policies before joining."
+  },
+  {
+    "Question":"What is the refund window?",
+    "Answer":"Usually within 7 days, based on terms and conditions."
+  },
+  {
+    "Question":"How long does refund take?",
+    "Answer":"Typically 5 to10 business days after approval."
+  },
+  {
+    "Question":"Are placement services refundable?",
+    "Answer":"Placement support is included in Zen Class and not billed separately."
+  },
+  {
+    "Question":"Can I get invoices for my purchase?",
+    "Answer":"Yes, invoices are available in your account or via email."
+  },
+  {
+    "Question":"Are there corporate or bulk discounts?",
+    "Answer":"Yes, GUVI provides training packages for businesses."
+  },
+  {
+    "Question":"What is included in Full Stack path?",
+    "Answer":"Frontend (HTML, CSS, JS), Backend (Node.js), DB (MongoDB), and Deployment."
+  },
+  {
+    "Question":"What is covered in Data Science?",
+    "Answer":"Python, ML, AI, Visualization, Statistics, SQL, and tools like Tableau."
+  },
+  {
+    "Question":"Is machine learning included?",
+    "Answer":"Yes, as part of the Data Science and AI track."
+  },
+  {
+    "Question":"Are DevOps and Cloud taught?",
+    "Answer":"Yes, through Zen Class and self-paced Cloud\/DevOps courses."
+  },
+  {
+    "Question":"Does GUVI teach UI\/UX?",
+    "Answer":"Yes, the UI\/UX Zen Class includes design thinking and tools like Figma."
+  },
+  {
+    "Question":"Are automation testing tools included?",
+    "Answer":"Yes, Selenium, JMeter, Postman, and Jenkins are taught."
+  },
+  {
+    "Question":"Are CAD tools like AutoCAD taught?",
+    "Answer":"Yes, AutoCAD and design courses for mechanical and civil engineers are available."
+  },
+  {
+    "Question":"Are handbooks free?",
+    "Answer":"Yes, handbooks on various programming languages are free to download."
+  },
+  {
+    "Question":"How long are the courses?",
+    "Answer":"Courses vary from a few hours to a few months depending on track."
+  },
+  {
+    "Question":"How many hours per week should I study?",
+    "Answer":"10 to 12 hours per week is recommended for career programs."
+  },
+  {
+    "Question":"Can I do multiple tracks at once?",
+    "Answer":"Yes, if you can manage the time, multiple enrollments are allowed."
+  },
+  {
+    "Question":"Are real-time projects included?",
+    "Answer":"Yes, all career tracks include industry-level projects."
+  },
+  {
+    "Question":"How is course progress tracked?",
+    "Answer":"Progress bars and dashboards show your completion stats."
+  },
+  {
+    "Question":"Can I revisit old lessons?",
+    "Answer":"Yes, lessons remain accessible even after completion."
+  },
+  {
+    "Question":"Does Zen Class offer resume help?",
+    "Answer":"Yes, resume reviews and mock interviews are part of the program."
+  },
+  {
+    "Question":"Are aptitude tests included?",
+    "Answer":"Yes, aptitude and logical reasoning sessions are provided."
+  },
+  {
+    "Question":"Does GUVI refer learners to companies?",
+    "Answer":"Yes, Zen Class offers job referrals and placement drives."
+  },
+  {
+    "Question":"What is the highest package offered?",
+    "Answer":"Learners have received offers up to 21 LPA in some cases."
+  },
+  {
+    "Question":"Are placement stats public?",
+    "Answer":"They are shared in webinars and demo sessions, but not always on the site."
+  },
+  {
+    "Question":"Can non-CS grads apply?",
+    "Answer":"Yes, many non-IT graduates have transitioned successfully."
+  },
+  {
+    "Question":"Can I speak to a career counselor?",
+    "Answer":"Yes, GUVI provides counseling before and after joining."
+  },
+  {
+    "Question":"Are alumni networks available?",
+    "Answer":"Yes, alumni groups support networking and job leads."
+  },
+  {
+    "Question":"Do I keep access to content after finishing?",
+    "Answer":"Yes, lifetime access is offered for most self-paced courses."
+  },
+  {
+    "Question":"Are there practice tests?",
+    "Answer":"Yes, aptitude and technical tests are included."
+  },
+  {
+    "Question":"Do I need prior experience?",
+    "Answer":"No, beginner-friendly courses are available."
+  },
+  {
+    "Question":"Can I update my resume with GUVI projects?",
+    "Answer":"Yes, project certificates and GitHub portfolios are provided."
+  },
+  {
+    "Question":"Are internships available?",
+    "Answer":"Yes, based on performance and program, internships are offered."
+  },
+  {
+    "Question":"Will I get a job guarantee?",
+    "Answer":"Placement support is provided, but job guarantee terms vary."
+  },
+  {
+    "Question":"Can I contact mentors directly?",
+    "Answer":"Yes, through scheduled sessions and community forums."
+  },
+  {
+    "Question":"What support do I get post-course?",
+    "Answer":"Alumni groups, job updates, and resume refresh support remain available."
+  },
+  {
+    "Question":"Does GUVI provide placement support?",
+    "Answer":"Yes, GUVI offers dedicated placement support through its Zen Class career programs."
+  },
+  {
+    "Question":"Which programs include placement assistance?",
+    "Answer":"Placement assistance is included in Zen Class programs like Full Stack, Data Science, DevOps, UI\/UX, and QA."
+  },
+  {
+    "Question":"Is placement support available for free\/self-paced courses?",
+    "Answer":"No, full placement support is exclusive to Zen Class programs."
+  },
+  {
+    "Question":"What kind of placement support is provided?",
+    "Answer":"Support includes resume building, mock interviews, aptitude training, soft skills, and job referrals."
+  },
+  {
+    "Question":"Does GUVI guarantee placements?",
+    "Answer":"No job guarantee is offered, but active placement assistance and referrals are provided."
+  },
+  {
+    "Question":"What is the average salary package offered?",
+    "Answer":"The average salary is around 6 to 8 LPA for eligible and well-performing candidates."
+  },
+  {
+    "Question":"What is the highest package offered to GUVI learners?",
+    "Answer":"Some learners have received offers up to 21 LPA."
+  },
+  {
+    "Question":"Which companies hire from GUVI?",
+    "Answer":"Hiring companies include Freshworks, Juspay, PayPal, Zoho, Ramco, Chargebee, and many startups."
+  },
+  {
+    "Question":"Is there an eligibility criterion for placements?",
+    "Answer":"Yes, students must complete the course, submit assignments, and clear mock interviews."
+  },
+  {
+    "Question":"Do I need a degree to get placed through GUVI?",
+    "Answer":"While a degree helps, its not mandatory. Skills and performance matter most."
+  },
+  {
+    "Question":"Is prior work experience required?",
+    "Answer":"No, freshers with the right skills can also get placed."
+  },
+  {
+    "Question":"What are the minimum criteria for placement eligibility?",
+    "Answer":"Complete the course, maintain attendance, clear evaluations, and actively participate in career prep."
+  },
+  {
+    "Question":"How are placement drives conducted?",
+    "Answer":"GUVI conducts virtual placement drives and connects students to companies via job portals and referrals."
+  },
+  {
+    "Question":"How often are placement drives held?",
+    "Answer":"Placement drives are conducted monthly or based on company openings."
+  },
+  {
+    "Question":"Will I get company-specific interview preparation?",
+    "Answer":"Yes, GUVI provides resources and mentorship for company-specific interview rounds."
+  },
+  {
+    "Question":"Are mock interviews part of the placement process?",
+    "Answer":"Yes, detailed mock interviews with feedback are provided."
+  },
+  {
+    "Question":"Is aptitude training included?",
+    "Answer":"Yes, GUVI offers sessions on aptitude, logical reasoning, and verbal skills."
+  },
+  {
+    "Question":"How many companies will I be referred to?",
+    "Answer":"It depends on your profile strength, course completion status, and job role availability."
+  },
+  {
+    "Question":"Can non-CS graduates apply for placements?",
+    "Answer":"Yes, students from any background are welcome if they meet the skill requirements."
+  },
+  {
+    "Question":"What roles are available through GUVI placements?",
+    "Answer":"Common roles include Software Developer, Data Analyst, QA Engineer, UI\/UX Designer, and DevOps Engineer."
+  },
+  {
+    "Question":"Is soft skills training included?",
+    "Answer":"Yes, communication skills, presentation, and professional etiquette are taught."
+  },
+  {
+    "Question":"Can I get remote job opportunities?",
+    "Answer":"Yes, GUVI supports remote job placement depending on employer requirements."
+  },
+  {
+    "Question":"Will I get placement support after course completion?",
+    "Answer":"Yes, eligible students continue to receive placement assistance after finishing the course."
+  },
+  {
+    "Question":"How long will placement support last?",
+    "Answer":"Placement assistance typically lasts for 6 to 12 months after course completion."
+  },
+  {
+    "Question":"Do I need to pay extra for placement services?",
+    "Answer":"No, placement support is included in the Zen Class program fees."
+  },
+  {
+    "Question":"Will GUVI help me build my resume?",
+    "Answer":"Yes, personalized resume building and review are part of the career track."
+  },
+  {
+    "Question":"Are LinkedIn profile reviews provided?",
+    "Answer":"Yes, mentors assist in optimizing LinkedIn profiles for job visibility."
+  },
+  {
+    "Question":"Can I showcase my GUVI projects during interviews?",
+    "Answer":"Absolutely, project portfolios are encouraged and reviewed by recruiters."
+  },
+  {
+    "Question":"Is GitHub profile setup taught?",
+    "Answer":"Yes, GitHub usage for showcasing code and projects is included."
+  },
+  {
+    "Question":"Can I sit for multiple company interviews?",
+    "Answer":"Yes, students can attend multiple interviews based on eligibility."
+  },
+  {
+    "Question":"Can I request interview rescheduling?",
+    "Answer":"Yes, but rescheduling depends on employer flexibility."
+  },
+  {
+    "Question":"How soon after course completion do placements begin?",
+    "Answer":"Placement activities often begin in the final month of the course."
+  },
+  {
+    "Question":"Do I receive job alerts from GUVI?",
+    "Answer":"Yes, GUVI provides regular updates via email and dashboard notifications."
+  },
+  {
+    "Question":"Are salary negotiations supported?",
+    "Answer":"Mentors can guide on negotiation strategies but do not intervene directly."
+  },
+  {
+    "Question":"What happens if I reject an offer?",
+    "Answer":"You may continue to receive referrals, but excessive rejections may affect further chances."
+  },
+  {
+    "Question":"Is the placement support individual or batch-based?",
+    "Answer":"Support is offered to both groups and individuals based on readiness and schedule."
+  },
+  {
+    "Question":"Can I track my placement progress?",
+    "Answer":"Yes, GUVI provides dashboards for tracking course and placement progress."
+  },
+  {
+    "Question":"Do I receive certificates for placement training?",
+    "Answer":"Placement preparation itself does not have a certificate, but course completion does."
+  },
+  {
+    "Question":"Will I be added to an alumni group?",
+    "Answer":"Yes, alumni communities are available for job leads and networking."
+  },
+  {
+    "Question":"Are international placements offered?",
+    "Answer":"Some remote opportunities may be international, but not guaranteed."
+  },
+  {
+    "Question":"Can I apply to my preferred job location?",
+    "Answer":"Yes, location preferences are considered during shortlisting."
+  },
+  {
+    "Question":"Will my education gap affect placement?",
+    "Answer":"Not necessarily, if you demonstrate skills and explain gaps professionally."
+  },
+  {
+    "Question":"Are dropouts eligible for placements?",
+    "Answer":"Yes, but success depends on skills, portfolio, and commitment."
+  },
+  {
+    "Question":"What industries hire from GUVI?",
+    "Answer":"IT services, fintech, edtech, SaaS, consulting, and startups."
+  },
+  {
+    "Question":"What is the interview process like?",
+    "Answer":"Generally includes aptitude test, technical interview, and HR round."
+  },
+  {
+    "Question":"Is coding assessment mandatory?",
+    "Answer":"For tech roles, yes via platforms like HackerRank, CodeKata, or employer tools."
+  },
+  {
+    "Question":"Do I need to learn DSA for placements?",
+    "Answer":"Yes, Data Structures and Algorithms are important for most tech interviews."
+  },
+  {
+    "Question":"Is interview prep customized?",
+    "Answer":"Yes, mentors provide guidance tailored to your role and target company."
+  },
+  {
+    "Question":"Are weekend placement drives conducted?",
+    "Answer":"Yes, sessions and drives are often scheduled on weekends."
+  },
+  {
+    "Question":"Are HR questions covered in mock interviews?",
+    "Answer":"Yes, common HR and behavioral questions are covered in prep."
+  },
+  {
+    "Question":"Do GUVI learners get placed abroad?",
+    "Answer":"Few cases exist for remote or international roles, mostly in remote-first companies."
+  },
+  {
+    "Question":"What is the average interview success rate?",
+    "Answer":"It varies, but students completing the course and actively preparing fare better."
+  },
+  {
+    "Question":"Will I get a placement report?",
+    "Answer":"You can track offers and applications via your dashboard."
+  },
+  {
+    "Question":"How many interviews do students usually attend?",
+    "Answer":"Students may attend 3 to7 interviews based on readiness and performance."
+  },
+  {
+    "Question":"What is the average time to land a job?",
+    "Answer":"Usually within 3 months of course completion, depending on effort."
+  },
+  {
+    "Question":"Do I need to relocate for job roles?",
+    "Answer":"Some roles may require relocation; this is shared in advance."
+  },
+  {
+    "Question":"Can I choose my job domain?",
+    "Answer":"Yes, you can express domain preferences during the career counseling phase."
+  },
+  {
+    "Question":"Is freelancing or internship support available?",
+    "Answer":"Some internships and freelance projects are also referred."
+  },
+  {
+    "Question":"What should I do if I donâ€™t get placed immediately?",
+    "Answer":"Continue practicing, apply regularly, and seek mentor feedback."
+  },
+  {
+    "Question":"Do employers give test feedback?",
+    "Answer":"Not always, but mock interviews provide detailed feedback."
+  },
+  {
+    "Question":"Will mentors help analyze rejections?",
+    "Answer":"Yes, you can discuss interview performance with mentors."
+  },
+  {
+    "Question":"Can I pause and resume placement assistance?",
+    "Answer":"You must inform GUVI in advance, and eligibility may vary upon return."
+  },
+  {
+    "Question":"Are past learners still getting job assistance?",
+    "Answer":"Yes, alumni who remain active can get continued referrals."
+  },
+  {
+    "Question":"Can I apply for non-tech roles?",
+    "Answer":"Zen Class focuses on tech roles, but some roles may require analytical or design skills."
+  },
+  {
+    "Question":"How do I improve my placement chances?",
+    "Answer":"Practice regularly, complete your portfolio, engage with mentors, and attend all sessions."
+  },
+  {
+    "Question":"Is attendance tracked for placement eligibility?",
+    "Answer":"Yes, minimum attendance is required to qualify for job referrals."
+  },
+  {
+    "Question":"Can I connect with GUVI alumni?",
+    "Answer":"Yes, alumni networks and events allow peer connections."
+  },
+  {
+    "Question":"Is there a dedicated placement team?",
+    "Answer":"Yes, GUVI has a career services team to coordinate placements."
+  },
+  {
+    "Question":"Do I need to pay a commission after getting placed?",
+    "Answer":"No, GUVI does not charge any post-placement fees."
+  },
+  {
+    "Question":"Can I join placements if I already have a job?",
+    "Answer":"Yes, but placements target those actively looking to switch or upskill."
+  },
+  {
+    "Question":"Are English communication sessions available?",
+    "Answer":"Yes, GUVI provides spoken English and soft skills classes."
+  },
+  {
+    "Question":"Are hackathons or hiring contests conducted?",
+    "Answer":"Yes, GUVI hosts hackathons and connects students to third-party contests."
+  },
+  {
+    "Question":"Are video resumes encouraged?",
+    "Answer":"Yes, GUVI promotes video resumes for creative and UI\/UX roles."
+  },
+  {
+    "Question":"Are product-based companies hiring from GUVI?",
+    "Answer":"Yes, some product-based companies participate in hiring."
+  },
+  {
+    "Question":"Can I get internships while studying?",
+    "Answer":"Yes, based on performance, short internships may be offered."
+  },
+  {
+    "Question":"How are internships different from placements?",
+    "Answer":"Internships are temporary learning experiences; placements are full-time jobs."
+  },
+  {
+    "Question":"Are internships paid?",
+    "Answer":"Some are paid, especially in partner companies."
+  },
+  {
+    "Question":"Will I get a recommendation letter?",
+    "Answer":"Based on performance, mentors may offer recommendation letters."
+  },
+  {
+    "Question":"Can I do mock interviews with actual company questions?",
+    "Answer":"Yes, mock sessions often use questions from recent interviews."
+  },
+  {
+    "Question":"Will GUVI share my resume with companies?",
+    "Answer":"Yes, GUVI shares qualified profiles with hiring partners."
+  },
+  {
+    "Question":"Can I update my resume mid-process?",
+    "Answer":"Yes, and mentors can help review updates."
+  },
+  {
+    "Question":"Is there a final placement exam?",
+    "Answer":"Some programs include an evaluation before entering the placement phase."
+  },
+  {
+    "Question":"Do soft skills affect hiring?",
+    "Answer":"Yes, recruiters value good communication and problem-solving."
+  },
+  {
+    "Question":"Will I receive placement offers by email?",
+    "Answer":"Yes, updates and interviews are communicated through email and portal alerts."
+  },
+  {
+    "Question":"Can I reapply for the same company?",
+    "Answer":"This depends on the companys policy and GUVIs recommendation."
+  },
+  {
+    "Question":"Do I get mentorship after joining a company?",
+    "Answer":"Post-placement check-ins are offered, but ongoing mentorship may be limited."
+  },
+  {
+    "Question":"Are different tracks treated differently in placements?",
+    "Answer":"Each track has specific job roles but receives equal support."
+  },
+  {
+    "Question":"What technologies must I master?",
+    "Answer":"Depends on your track  e.g., MERN Stack for Full Stack, Python & ML for Data Science."
+  },
+  {
+    "Question":"Can I switch tracks during placement?",
+    "Answer":"Switching is discouraged once placement phase begins."
+  },
+  {
+    "Question":"Do certifications help in getting jobs?",
+    "Answer":"Yes, GUVI and co-branded certifications improve your resume."
+  },
+  {
+    "Question":"Can I use GUVI placement help if I didnt attend Zen Class?",
+    "Answer":"No, full placement assistance is exclusive to Zen Class learners."
+  },
+  {
+    "Question":"How do I stand out in the job market?",
+    "Answer":"Build strong projects, contribute to GitHub, and prepare consistently."
+  },
+  {
+    "Question":"What if a company delays the offer?",
+    "Answer":"GUVI will follow up, but final hiring decision lies with the employer."
+  },
+  {
+    "Question":"Do I get feedback from recruiters?",
+    "Answer":"Not always, but GUVI collects and shares feedback when available."
+  },
+  {
+    "Question":"Will I be trained for behavioral interviews?",
+    "Answer":"Yes, soft skill and HR interview prep is part of the program."
+  },
+  {
+    "Question":"What are the common reasons students dont get placed?",
+    "Answer":"Lack of practice, poor communication, incomplete portfolios, or low attendance."
+  },
+  {
+    "Question":"How to stay motivated during placement phase?",
+    "Answer":"Engage with peers, set small goals, and stay in touch with mentors."
+  },
+  {
+    "Question":"What support does GUVI offer beyond job placement?",
+    "Answer":"Community, events, alumni network, and learning updates."
+  },
+  {
+    "Question":"Can I participate in multiple placement cycles?",
+    "Answer":"Yes, if still eligible and actively seeking jobs."
+  },
+  {
+    "Question":"Can I reapply for placements if I dont succeed?",
+    "Answer":"Yes, learners can reappear in upcoming placement cycles and continue to receive job alerts from GUVI."
+  },
+  {
+    "Question":"What types of courses does GUVI offer?",
+    "Answer":"GUVI offers self-paced courses, live mentor-led Zen Class programs, bootcamps, and certification-based courses in various tech domains."
+  },
+  {
+    "Question":"What is a Zen Class program?",
+    "Answer":"Zen Class is GUVIs premium live program that includes instructor-led classes, real-world projects, and placement support."
+  },
+  {
+    "Question":"Are GUVI courses paid or free?",
+    "Answer":"GUVI provides both free and paid courses. Many foundational courses are free, while career-focused courses require payment."
+  },
+  {
+    "Question":"Which courses are free on GUVI?",
+    "Answer":"Courses like Python Basics, JavaScript Basics, and UI\/UX introductory lessons are free with optional paid certifications."
+  },
+  {
+    "Question":"Do free courses provide certificates?",
+    "Answer":"Some free courses offer free certificates after completion; others may require a fee for certification."
+  },
+  {
+    "Question":"How are GUVI courses delivered?",
+    "Answer":"Courses are available online in video format with embedded quizzes and coding challenges."
+  },
+  {
+    "Question":"What are self-paced courses?",
+    "Answer":"These are pre-recorded courses that allow learners to study at their own pace and convenience."
+  },
+  {
+    "Question":"What is the duration of GUVI courses?",
+    "Answer":"Self-paced courses range from 2 hours to 40 hours, while Zen Class programs last 3â€“6 months."
+  },
+  {
+    "Question":"Are live classes available in all courses?",
+    "Answer":"Live sessions are only part of Zen Class and bootcamp programs."
+  },
+  {
+    "Question":"Can I learn at my own speed?",
+    "Answer":"Yes, self-paced courses are designed for flexible learning."
+  },
+  {
+    "Question":"Are courses available in Tamil?",
+    "Answer":"Yes, several courses are available in Tamil, especially beginner-level content."
+  },
+  {
+    "Question":"Do you offer content in Hindi or Telugu?",
+    "Answer":"Yes, GUVI supports multiple Indian languages including Hindi, Telugu, Kannada, Marathi, and Bengali."
+  },
+  {
+    "Question":"Can I change the language after enrolling?",
+    "Answer":"No, each course is published in a fixed language, so check before enrolling."
+  },
+  {
+    "Question":"Are subtitles available?",
+    "Answer":"Many courses include subtitles in English or native languages."
+  },
+  {
+    "Question":"Are courses translated or natively recorded?",
+    "Answer":"Most courses are natively recorded in respective languages for clarity."
+  },
+  {
+    "Question":"Are GUVI courses industry-aligned?",
+    "Answer":"Yes, all courses are designed with input from industry experts and real-world use cases."
+  },
+  {
+    "Question":"Are there capstone projects?",
+    "Answer":"Zen Class programs include capstone and portfolio-building projects."
+  },
+  {
+    "Question":"Is Data Science taught from scratch?",
+    "Answer":"Yes, both beginner and advanced content is available in the Data Science track."
+  },
+  {
+    "Question":"Are coding challenges included?",
+    "Answer":"Yes, CodeKata and DebugKata platforms are integrated into many technical courses."
+  },
+  {
+    "Question":"Are courses regularly updated?",
+    "Answer":"Yes, course content is reviewed and updated based on tech trends."
+  },
+  {
+    "Question":"Which technologies are covered?",
+    "Answer":"GUVI covers Full Stack Development, Data Science, Machine Learning, UI\/UX, DevOps, QA, and more."
+  },
+  {
+    "Question":"Is Python taught on GUVI?",
+    "Answer":"Yes, Python is offered at beginner and intermediate levels."
+  },
+  {
+    "Question":"Do you teach React or Angular?",
+    "Answer":"React is included in Full Stack courses. Angular is limited but available in some modules."
+  },
+  {
+    "Question":"Is SQL included?",
+    "Answer":"Yes, SQLKata and database courses are available."
+  },
+  {
+    "Question":"Is cloud computing covered?",
+    "Answer":"Yes, GUVI offers DevOps and Cloud Fundamentals as separate tracks."
+  },
+  {
+    "Question":"Can I learn Cybersecurity?",
+    "Answer":"GUVI occasionally offers Cybersecurity fundamentals as part of seasonal bootcamps."
+  },
+  {
+    "Question":"Are mechanical\/CAD courses offered?",
+    "Answer":"Yes, AutoCAD, SolidWorks, and similar tools are taught for mechanical and civil streams."
+  },
+  {
+    "Question":"Is mobile app development covered?",
+    "Answer":"GUVI provides Flutter\/Dart courses for mobile development."
+  },
+  {
+    "Question":"Are courses available for kids or school students?",
+    "Answer":"GUVI offers select beginner coding courses suitable for early learners."
+  },
+  {
+    "Question":"Do you offer MBA-level tech courses?",
+    "Answer":"Not currently, but management-focused tech skills like PM or Agile are sometimes taught."
+  },
+  {
+    "Question":"Do all courses offer certificates?",
+    "Answer":"Yes, upon course completion and quiz submission, a certificate is issued."
+  },
+  {
+    "Question":"Are the certificates co-branded?",
+    "Answer":"Some certificates are co-branded with IIT-Madras or industry partners."
+  },
+  {
+    "Question":"Can I download my certificate?",
+    "Answer":"Yes, certificates are available as PDFs from your dashboard."
+  },
+  {
+    "Question":"Are certificates shareable on LinkedIn?",
+    "Answer":"Yes, they include a unique verification link for sharing."
+  },
+  {
+    "Question":"How do I unlock a certificate?",
+    "Answer":"Watch all lessons, complete the quizzes, and score the minimum passing marks."
+  },
+  {
+    "Question":"Is there an expiry for course certificates?",
+    "Answer":"No, GUVI certificates are valid for life."
+  },
+  {
+    "Question":"How many quiz attempts are allowed?",
+    "Answer":"Unlimited attempts are allowed to help learners master the content."
+  },
+  {
+    "Question":"Is project submission compulsory for certification?",
+    "Answer":"Only in Zen Class programs. Self-paced courses typically donâ€™t require project submissions."
+  },
+  {
+    "Question":"Do certificates have serial numbers?",
+    "Answer":"Yes, each certificate includes a unique code for verification."
+  },
+  {
+    "Question":"How soon after completion do I receive the certificate?",
+    "Answer":"Instantly, once course criteria are fulfilled."
+  },
+  {
+    "Question":"Can I access GUVI on a phone?",
+    "Answer":"Yes, via browser or Android app."
+  },
+  {
+    "Question":"Is there an iOS app?",
+    "Answer":"Not currently; iOS users must use a browser."
+  },
+  {
+    "Question":"Are GUVI courses downloadable?",
+    "Answer":"No, offline download is not available. You need internet access to view content."
+  },
+  {
+    "Question":"Can I pause a course and return later?",
+    "Answer":"Yes, your progress is saved automatically."
+  },
+  {
+    "Question":"Do I need to install any tools for the course?",
+    "Answer":"Some courses suggest software\/tools, like VS Code or Jupyter, but instructions are provided."
+  },
+  {
+    "Question":"Are the courses interactive?",
+    "Answer":"Yes, quizzes, code editors, and project tasks enhance interactivity."
+  },
+  {
+    "Question":"Is screen sharing or 1:1 support available?",
+    "Answer":"Only in Zen Class programs."
+  },
+  {
+    "Question":"Can I ask doubts in the course?",
+    "Answer":"Yes, comments or discussion forums are available in most courses."
+  },
+  {
+    "Question":"How do I track progress?",
+    "Answer":"Your dashboard shows completion percentage and unlocked milestones."
+  },
+  {
+    "Question":"Is there a leaderboard or ranking system?",
+    "Answer":"For coding platforms like CodeKata, yes."
+  },
+  {
+    "Question":"How do I enroll in a course?",
+    "Answer":"Sign in to GUVI, go to the course page, and click â€œEnrollâ€."
+  },
+  {
+    "Question":"Do I get instant access after enrolling?",
+    "Answer":"Yes, unless its a scheduled bootcamp."
+  },
+  {
+    "Question":"What are the payment options?",
+    "Answer":"Credit\/debit card, UPI, net banking, and EMI (for Zen Class)."
+  },
+  {
+    "Question":"Can I pay in installments?",
+    "Answer":"Yes, EMI is available for career courses."
+  },
+  {
+    "Question":"Is GST included in the course price?",
+    "Answer":"Prices usually include GST."
+  },
+  {
+    "Question":"Do you offer student discounts?",
+    "Answer":"Occasionally, discounts and scholarships are offered during campaigns."
+  },
+  {
+    "Question":"Is there a refund policy?",
+    "Answer":"Refunds are limited and vary by program. Zen Class may offer a 7-day refund window."
+  },
+  {
+    "Question":"Can I get a fee receipt?",
+    "Answer":"Yes, invoices are emailed or available in your profile."
+  },
+  {
+    "Question":"Do I get access to all courses after one payment?",
+    "Answer":"No, courses are purchased individually unless part of a bundle."
+  },
+  {
+    "Question":"Are bundles available?",
+    "Answer":"Yes, sometimes bundled packages are offered at discounted prices."
+  },
+  {
+    "Question":"Do self-paced courses include mentorship?",
+    "Answer":"No, only Zen Class programs offer 1-on-1 mentorship."
+  },
+  {
+    "Question":"Can I speak to an instructor?",
+    "Answer":"Only in live sessions or community discussions."
+  },
+  {
+    "Question":"Are there teaching assistants (TAs)?",
+    "Answer":"Yes, Zen Class has dedicated TAs for doubt clarification."
+  },
+  {
+    "Question":"Is doubt-solving available 24\/7?",
+    "Answer":"No, but response time is quick during working hours."
+  },
+  {
+    "Question":"Is there a discussion forum?",
+    "Answer":"Yes, GUVI hosts forums for course-based queries."
+  },
+  {
+    "Question":"Is email support available?",
+    "Answer":"Yes, you can contact cs@guvi.in or use the help center."
+  },
+  {
+    "Question":"Can I get a mentorâ€™s feedback on projects?",
+    "Answer":"Yes, in Zen Class, mentors provide detailed project reviews."
+  },
+  {
+    "Question":"Are webinars or workshops included?",
+    "Answer":"Occasionally, especially for premium learners or community members."
+  },
+  {
+    "Question":"Do I need to attend live classes in Zen Class?",
+    "Answer":"Yes, live classes are an essential part of Zen Class programs."
+  },
+  {
+    "Question":"What happens if I miss a live session?",
+    "Answer":"Recordings are shared after the session."
+  },
+  {
+    "Question":"Which courses have job assistance?",
+    "Answer":"Zen Class programs include resume help, mock interviews, and job referrals."
+  },
+  {
+    "Question":"Is job assistance available for all courses?",
+    "Answer":"No, only Zen Class programs include placement support."
+  },
+  {
+    "Question":"What roles can I get after a course?",
+    "Answer":"Roles include Software Developer, Data Analyst, QA Tester, UX Designer, etc."
+  },
+  {
+    "Question":"Are internships included in courses?",
+    "Answer":"Some programs offer internship opportunities post-assessment."
+  },
+  {
+    "Question":"Are GUVI certifications accepted by companies?",
+    "Answer":"Yes, especially those co-branded with IIT-Madras or industry partners."
+  },
+  {
+    "Question":"Do you help with GitHub and portfolio building?",
+    "Answer":"Yes, especially in Zen Class and Full Stack tracks."
+  },
+  {
+    "Question":"Are coding competitions held for learners?",
+    "Answer":"Yes, learners participate in contests via CodeKata."
+  },
+  {
+    "Question":"Can I share my certificate on my resume?",
+    "Answer":"Yes, it strengthens your technical profile."
+  },
+  {
+    "Question":"Are there interview preparation sessions?",
+    "Answer":"Available in Zen Class only."
+  },
+  {
+    "Question":"Do I get career counseling?",
+    "Answer":"Zen Class students receive career planning and counseling."
+  },
+  {
+    "Question":"Can I learn multiple courses at once?",
+    "Answer":"Yes, there is no limit to how many you enroll in."
+  },
+  {
+    "Question":"Are there any age limits?",
+    "Answer":"No, anyone above 13 can learn, with no upper limit."
+  },
+  {
+    "Question":"Can professionals take GUVI courses?",
+    "Answer":"Yes, many working professionals use GUVI to upskill."
+  },
+  {
+    "Question":"Is the platform beginner-friendly?",
+    "Answer":"Yes, many courses are designed for absolute beginners."
+  },
+  {
+    "Question":"Can I access GUVI outside India?",
+    "Answer":"Yes, it's available worldwide."
+  },
+  {
+    "Question":"Is GUVI affiliated with IITs?",
+    "Answer":"Yes, GUVI is incubated at IIT-Madras and offers IIT-M-certified courses."
+  },
+  {
+    "Question":"Do courses expire after enrollment?",
+    "Answer":"No, access remains as long as GUVI supports the course."
+  },
+  {
+    "Question":"Are GUVI handbooks free?",
+    "Answer":"Yes, handbooks for Python, JavaScript, React, etc., are freely downloadable."
+  },
+  {
+    "Question":"Is the curriculum peer-reviewed?",
+    "Answer":"Yes, senior developers and instructors review content quality."
+  },
+  {
+    "Question":"Can I suggest new courses?",
+    "Answer":"Yes, feedback and course suggestions are welcome."
+  },
+  {
+    "Question":"How do I report a course issue?",
+    "Answer":"Use the help widget or email cs@guvi.in."
+  },
+  {
+    "Question":"What to do if a video doesn't play?",
+    "Answer":"Try refreshing, or changing browser. Contact support if it persists."
+  },
+  {
+    "Question":"Can I retake a course?",
+    "Answer":"Yes, you can go through it as many times as needed."
+  },
+  {
+    "Question":"Is there a course completion deadline?",
+    "Answer":"No, self-paced courses have no deadline."
+  },
+  {
+    "Question":"Are community reviews shown on courses?",
+    "Answer":"Some courses show ratings and student testimonials."
+  },
+  {
+    "Question":"Is GUVI NASSCOM-approved?",
+    "Answer":"Yes, some courses are aligned with NASSCOM frameworks."
+  },
+  {
+    "Question":"Are course quizzes auto-graded?",
+    "Answer":"Yes, they are instantly scored."
+  },
+  {
+    "Question":"Can I leave mid-course and return later?",
+    "Answer":"Yes, your spot is saved and you can resume anytime."
+  },
+  {
+    "Question":"Can I access content from multiple devices?",
+    "Answer":"Yes, progress syncs across devices."
+  },
+  {
+    "Question":"How do I contact support?",
+    "Answer":"Email cs@guvi.in or call +91 97360 97320."
+  },
+  {
+    "Question":"Who are GUVIs hiring partners?",
+    "Answer":"GUVI partners with companies like Zoho, Freshworks, Juspay, Chargebee, Ramco, PayPal, and many emerging startups."
+  },
+  {
+    "Question":"Can companies directly hire from GUVI?",
+    "Answer":"Yes, recruiters can directly collaborate with GUVIs placement team to access skilled tech talent."
+  },
+  {
+    "Question":"How can I become a GUVI recruiter?",
+    "Answer":"Fill the recruiter form at GUVIs website or contact them at cs@guvi.in to initiate collaboration."
+  },
+  {
+    "Question":"What types of roles do GUVI candidates fill?",
+    "Answer":"GUVI-trained talent is suitable for Software Development, Data Science, UI\/UX, QA, DevOps, and more."
+  },
+  {
+    "Question":"Are the candidates job-ready?",
+    "Answer":"Yes, they undergo intensive training, hands-on projects, aptitude tests, mock interviews, and soft skills development."
+  },
+  {
+    "Question":"What is the average experience level of candidates?",
+    "Answer":"Most candidates are freshers or early-career professionals; some may have up to 3 years of experience."
+  },
+  {
+    "Question":"What is the typical educational background of candidates?",
+    "Answer":"Most candidates hold degrees in Engineering, Science, or Commerce streams, though education is not the sole criterion."
+  },
+  {
+    "Question":"Can recruiters hire remote employees?",
+    "Answer":"Yes, many GUVI learners are open to remote roles and flexible work environments."
+  },
+  {
+    "Question":"Does GUVI charge companies to hire?",
+    "Answer":"Generally, GUVI provides zero-cost hiring support for its placement partners."
+  },
+  {
+    "Question":"Can companies conduct campus drives through GUVI?",
+    "Answer":"Yes, virtual campus drives and hiring events can be scheduled with GUVIs support team."
+  },
+  {
+    "Question":"How are candidate resumes verified?",
+    "Answer":"GUVI verifies course completion, project work, and interview readiness before recommending candidates."
+  },
+  {
+    "Question":"Can I request resumes based on specific skillsets?",
+    "Answer":"Yes, you can request curated profiles with specific tech stacks or domain expertise."
+  },
+  {
+    "Question":"How are candidates matched to roles?",
+    "Answer":"GUVI uses course performance, aptitude scores, and interview readiness to shortlist relevant candidates."
+  },
+  {
+    "Question":"How many candidates can I hire at once?",
+    "Answer":"There is no limit; bulk hiring drives can be organized depending on requirements."
+  },
+  {
+    "Question":"What is the process to initiate recruitment?",
+    "Answer":"Submit your job description and hiring needs to GUVIs placement team and they will schedule matching candidates."
+  },
+  {
+    "Question":"How are interviews scheduled?",
+    "Answer":"GUVI coordinates directly with shortlisted candidates to schedule interviews as per recruiter convenience."
+  },
+  {
+    "Question":"Are GUVI candidates available pan-India?",
+    "Answer":"Yes, learners come from all over India and are willing to relocate or work remotely."
+  },
+  {
+    "Question":"What are common technologies GUVI candidates are skilled in?",
+    "Answer":"MERN Stack, Python, SQL, Machine Learning, Java, Selenium, Figma, and more."
+  },
+  {
+    "Question":"Can I test candidates before interviews?",
+    "Answer":"Yes, GUVI offers online test integration or supports your assessment process."
+  },
+  {
+    "Question":"Are soft skills trained as well?",
+    "Answer":"Yes, learners undergo soft skills sessions including communication, email etiquette, and teamwork."
+  },
+  {
+    "Question":"Can I give feedback after hiring?",
+    "Answer":"Yes, recruiter feedback helps GUVI refine future batches and curriculum alignment."
+  },
+  {
+    "Question":"Are placements only for Full Stack and Data Science?",
+    "Answer":"No, GUVI supports placement in QA Testing, DevOps, UI\/UX, VFX, and more."
+  },
+  {
+    "Question":"Is project experience shared with recruiters?",
+    "Answer":"Yes, each candidate has a project portfolio link or GitHub repository available."
+  },
+  {
+    "Question":"Can GUVI candidates work internationally?",
+    "Answer":"Yes, some learners are open to remote or overseas roles based on opportunity."
+  },
+  {
+    "Question":"Are diversity hiring initiatives supported?",
+    "Answer":"Yes, GUVI promotes inclusive hiring and can provide women-only or diverse candidate shortlists."
+  },
+  {
+    "Question":"Can I host a hackathon with GUVI candidates?",
+    "Answer":"Yes, GUVI organizes coding challenges and hiring hackathons with partner companies."
+  },
+  {
+    "Question":"Do learners sign a job commitment?",
+    "Answer":"No formal bond is signed, but learners agree to GUVIs placement terms."
+  },
+  {
+    "Question":"How often can I recruit from GUVI?",
+    "Answer":"You can hire on-demand or during dedicated recruitment drives throughout the year."
+  },
+  {
+    "Question":"Is onboarding support provided?",
+    "Answer":"GUVI can assist with coordination, document collection, and candidate confirmation."
+  },
+  {
+    "Question":"Can I request candidate demo sessions?",
+    "Answer":"Yes, some recruiters conduct a pre-hiring coding session or case study before interviews."
+  },
+  {
+    "Question":"Is there a recruiter dashboard?",
+    "Answer":"Recruiter dashboards are in development; currently coordination is via email or GUVIs placement team."
+  },
+  {
+    "Question":"Can I provide internship opportunities?",
+    "Answer":"Yes, GUVI welcomes paid internships, especially for early-stage learners."
+  },
+  {
+    "Question":"Can I filter candidates based on location?",
+    "Answer":"Yes, you can request profiles by city, state, or remote-readiness."
+  },
+  {
+    "Question":"Are there assessments in GUVI courses?",
+    "Answer":"Yes, multiple-choice, coding, and project-based assessments are conducted."
+  },
+  {
+    "Question":"What is the average CTC offered to candidates?",
+    "Answer":"Salaries range from â‚¹4 LPA to â‚¹12 LPA; some top roles go beyond â‚¹20 LPA."
+  },
+  {
+    "Question":"Do learners receive offer negotiation support?",
+    "Answer":"GUVI provides guidance but does not interfere in company policies."
+  },
+  {
+    "Question":"How do I share feedback on a candidate?",
+    "Answer":"Through email or GUVIs placement form post-interview."
+  },
+  {
+    "Question":"What is the notice period for learners?",
+    "Answer":"Most learners are immediately available or have short notice periods (0 to15 days)."
+  },
+  {
+    "Question":"Can I track hiring performance?",
+    "Answer":"Yes, GUVI maintains a placement report with hiring status and feedback."
+  },
+  {
+    "Question":"Are recruitment cycles batch-wise?",
+    "Answer":"Yes, Zen Class batches are typically available every 2 to 3 months."
+  },
+  {
+    "Question":"Can I customize my hiring requirement?",
+    "Answer":"Yes, job roles, skills, and eligibility criteria can be shared with GUVI."
+  },
+  {
+    "Question":"How are job descriptions collected?",
+    "Answer":"GUVI requests recruiters to submit JD format with skills, salary, location, etc."
+  },
+  {
+    "Question":"Are freshers trained in agile or Git?",
+    "Answer":"Yes, foundational tools like Git, GitHub, Agile, Jira are taught in relevant courses."
+  },
+  {
+    "Question":"Is NDA signed by learners?",
+    "Answer":"NDA is not mandatory but can be discussed if your company policy requires it."
+  },
+  {
+    "Question":"Can I reject candidates post interview?",
+    "Answer":"Yes, hiring decisions remain fully with the recruiter."
+  },
+  {
+    "Question":"Are learners trained in communication and HR rounds?",
+    "Answer":"Yes, mock HR rounds and interview etiquette are part of career training."
+  },
+  {
+    "Question":"Can I hire part-time developers?",
+    "Answer":"Yes, part-time or freelance roles can be promoted via GUVI too."
+  },
+  {
+    "Question":"How long do placement cycles run?",
+    "Answer":"Typically, 1 to 2 months after course completion with recruiter interaction in between."
+  },
+  {
+    "Question":"Can I interview multiple candidates at once?",
+    "Answer":"Yes, GUVI supports panel interviews, group assessments, or bulk interviews."
+  },
+  {
+    "Question":"Are GUVI learners available for night shifts?",
+    "Answer":"Availability depends on the candidate, but some are open to flexible shifts."
+  },
+  {
+    "Question":"Who are GUVI mentors?",
+    "Answer":"GUVI mentors are experienced professionals from the tech industry who guide students through live sessions, projects, and career transitions."
+  },
+  {
+    "Question":"What qualifications do mentors have?",
+    "Answer":"Most mentors have 5 to 15 years of industry experience and have worked at companies like Zoho, Freshworks, Infosys, TCS, Amazon, etc."
+  },
+  {
+    "Question":"What subjects do mentors teach?",
+    "Answer":"Mentors cover Full Stack Development, Data Science, DevOps, UI\/UX, QA, Machine Learning, and more."
+  },
+  {
+    "Question":"Are GUVI mentors certified?",
+    "Answer":"Yes, mentors are vetted through technical screening and mock teaching sessions."
+  },
+  {
+    "Question":"Do all courses have mentors?",
+    "Answer":"Only Zen Class (career programs) have active mentors. Self-paced courses do not have live mentoring."
+  },
+  {
+    "Question":"What is the role of a GUVI mentor?",
+    "Answer":"To deliver live classes, resolve doubts, evaluate projects, and provide career guidance."
+  },
+  {
+    "Question":"Are mentors involved in project reviews?",
+    "Answer":"Yes, mentors give structured feedback on projects and help improve portfolios."
+  },
+  {
+    "Question":"Do mentors help with interview preparation?",
+    "Answer":"Yes, mentors conduct mock interviews and HR simulations for job readiness."
+  },
+  {
+    "Question":"Can mentors interact directly with learners?",
+    "Answer":"Yes, they engage through Zoom sessions, chat, doubt-clearing hours, and Discord communities."
+  },
+  {
+    "Question":"Do mentors assign homework or tasks?",
+    "Answer":"Yes, mentors regularly assign exercises, coding problems, and mini-projects."
+  },
+  {
+    "Question":"How can I become a GUVI mentor?",
+    "Answer":"You can apply via GUVIs Careers page or email mentor@guvi.in with your resume."
+  },
+  {
+    "Question":"Is there an interview process?",
+    "Answer":"Yes, mentors go through a technical round, teaching demo, and background check."
+  },
+  {
+    "Question":"Do mentors need to prepare content?",
+    "Answer":"Content is provided, but mentors are encouraged to add real-world insights and examples."
+  },
+  {
+    "Question":"Is teaching experience mandatory?",
+    "Answer":"Not mandatory, but preferred. Technical expertise and communication are more important."
+  },
+  {
+    "Question":"Can college professors apply as mentors?",
+    "Answer":"Yes, as long as they have strong practical knowledge and tech expertise."
+  },
+  {
+    "Question":"Is mentoring full-time or part-time?",
+    "Answer":"Mostly part-time. Mentors can work evenings\/weekends depending on course schedules."
+  },
+  {
+    "Question":"How many hours per week do mentors work?",
+    "Answer":"Typically 6 to 12 hours per week depending on batch and subject."
+  },
+  {
+    "Question":"Are mentors paid?",
+    "Answer":"Yes, GUVI pays mentors based on experience, session quality, and involvement."
+  },
+  {
+    "Question":"Is there a contract for mentors?",
+    "Answer":"Yes, mentors usually sign a short-term or batch-based contract."
+  },
+  {
+    "Question":"Do mentors receive bonuses or rewards?",
+    "Answer":"Yes, high-performing mentors are offered bonuses and perks like public recognition."
+  },
+  {
+    "Question":"How are doubt sessions handled?",
+    "Answer":"Dedicated doubt-clearing sessions are conducted weekly."
+  },
+  {
+    "Question":"Can students message mentors directly?",
+    "Answer":"Communication happens via moderated Discord or chat tools used by GUVI."
+  },
+  {
+    "Question":"Are one-on-one sessions available?",
+    "Answer":"Occasionally, for struggling students or project reviews."
+  },
+  {
+    "Question":"Do mentors use English for teaching?",
+    "Answer":"Yes, Zen Class is conducted in English, while regional batches use local languages."
+  },
+  {
+    "Question":"How do mentors track student progress?",
+    "Answer":"Through dashboards, assignment scores, and mentor review sheets."
+  },
+  {
+    "Question":"What platforms do mentors use for teaching?",
+    "Answer":"Zoom, GUVI LMS, Discord, CodeKata, and other tools."
+  },
+  {
+    "Question":"What does GUVI stand for?",
+    "Answer":"GUVI stands for Grab Ur Vernacular Imprint."
+  },
+  {
+    "Question":"When was GUVI founded?",
+    "Answer":"GUVI started in 2011 as a YouTube channel and was incorporated as a company in 2014."
+  },
+  {
+    "Question":"Where is GUVI headquartered?",
+    "Answer":"GUVI is headquartered in Chennai, Tamil Nadu."
+  },
+  {
+    "Question":"Who are the founders of GUVI?",
+    "Answer":"Arun Prakash, Late Sridevi Arun Prakash, and SP Balamurugan."
+  },
+  {
+    "Question":"What is the parent company of GUVI?",
+    "Answer":"HCL Group."
+  },
+  {
+    "Question":"What kind of courses does GUVI offer?",
+    "Answer":"GUVI offers courses in Full Stack Development, Data Science, Automation Testing, UI\/UX, DevOps, Digital Marketing, VFX, CAD, and more."
+  },
+  {
+    "Question":"What are Zen Class Programs?",
+    "Answer":"Zen Class Programs are career-focused programs by GUVI that come with placement support."
+  },
+  {
+    "Question":"What languages are GUVI courses offered in?",
+    "Answer":"Courses are offered in Tamil, Telugu, Hindi, Kannada, Marathi, Bengali, and English."
+  },
+  {
+    "Question":"What is the duration of GUVI courses?",
+    "Answer":"Typically between 3 to 5 months."
+  },
+  {
+    "Question":"What is the fee range for Zen Class programs?",
+    "Answer":"78,000 to 1.25 lakhs with EMI options available."
+  },
+  {
+    "Question":"What kind of courses does GUVI offer? ",
+    "Answer":"GUVI offers courses in Full Stack Development, Data Science, Automation Testing, UI\/UX, DevOps, Digital Marketing, VFX, CAD, and more."
+  },
+  {
+    "Question":"What are Zen Class Programs? ",
+    "Answer":"Zen Class Programs are career-focused programs by GUVI that come with placement support."
+  },
+  {
+    "Question":"What languages are GUVI courses offered in? ",
+    "Answer":"Courses are offered in Tamil, Telugu, Hindi, Kannada, Marathi, Bengali, and English."
+  },
+  {
+    "Question":"What is the duration of GUVI courses? ",
+    "Answer":"Typically between 3 to 5 months."
+  },
+  {
+    "Question":"What does GUVI stand for? ",
+    "Answer":"GUVI stands for Grab Ur Vernacular Imprint."
+  },
+  {
+    "Question":"When was GUVI founded? ",
+    "Answer":"GUVI started in 2011 as a YouTube channel and was incorporated as a company in 2014."
+  },
+  {
+    "Question":"Where is GUVI headquartered? ",
+    "Answer":"GUVI is headquartered in Chennai, Tamil Nadu."
+  },
+  {
+    "Question":"Who are the founders of GUVI? ",
+    "Answer":"Arun Prakash, Late Sridevi Arun Prakash, and SP Balamurugan."
+  },
+  {
+    "Question":"What is the parent company of GUVI? ",
+    "Answer":"HCL Group."
+  },
+  {
+    "Question":"What kind of courses does GUVI offer? ",
+    "Answer":"GUVI offers courses in Full Stack Development, Data Science, Automation Testing, UI\/UX, DevOps, Digital Marketing, VFX, CAD, and more."
+  },
+  {
+    "Question":"What are Zen Class Programs? ",
+    "Answer":"Zen Class Programs are career-focused programs by GUVI that come with placement support."
+  },
+  {
+    "Question":"What languages are GUVI courses offered in? ",
+    "Answer":"Courses are offered in Tamil, Telugu, Hindi, Kannada, Marathi, Bengali, and English."
+  },
+  {
+    "Question":"What is the duration of GUVI courses? ",
+    "Answer":"Typically between 3 to 5 months."
+  },
+  {
+    "Question":"What is the fee range for Zen Class programs? ",
+    "Answer":"78,000 to 1.25 lakhs with EMI options available."
+  },
+  {
+    "Question":"What does GUVI stand for? ",
+    "Answer":"GUVI stands for Grab Ur Vernacular Imprint."
+  },
+  {
+    "Question":"When was GUVI founded? ",
+    "Answer":"GUVI started in 2011 as a YouTube channel and was incorporated as a company in 2014."
+  },
+  {
+    "Question":"Where is GUVI headquartered? ",
+    "Answer":"GUVI is headquartered in Chennai, Tamil Nadu."
+  },
+  {
+    "Question":"Who are the founders of GUVI? ",
+    "Answer":"Arun Prakash, Late Sridevi Arun Prakash, and SP Balamurugan."
+  },
+  {
+    "Question":"What is the parent company of GUVI? ",
+    "Answer":"HCL Group."
+  },
+  {
+    "Question":"What kind of courses does GUVI offer? ",
+    "Answer":"GUVI offers courses in Full Stack Development, Data Science, Automation Testing, UI\/UX, DevOps, Digital Marketing, VFX, CAD, and more."
+  },
+  {
+    "Question":"What are Zen Class Programs? ",
+    "Answer":"Zen Class Programs are career-focused programs by GUVI that come with placement support."
+  },
+  {
+    "Question":"what language courses are taken?",
+    "Answer":"Courses are offered in Tamil, Telugu, Hindi, Kannada, Marathi, Bengali, and English."
+  },
+  {
+    "Question":"What is the duration of GUVI courses? ",
+    "Answer":"Typically between 3 to 5 months."
+  },
+  {
+    "Question":"What is the fee range for Zen Class programs? ",
+    "Answer":"78,000 to 1.25 lakhs with EMI options available."
+  },
+  {
+    "Question":"What does GUVI stand for? ",
+    "Answer":"GUVI stands for Grab Ur Vernacular Imprint."
+  },
+  {
+    "Question":"When was GUVI founded? ",
+    "Answer":"GUVI started in 2011 as a YouTube channel and was incorporated as a company in 2014."
+  },
+  {
+    "Question":"Where is GUVI headquartered? ",
+    "Answer":"GUVI is headquartered in Chennai, Tamil Nadu."
+  },
+  {
+    "Question":"Who are the founders of GUVI? ",
+    "Answer":"Arun Prakash, Late Sridevi Arun Prakash, and SP Balamurugan."
+  },
+  {
+    "Question":"What is the parent company of GUVI? ",
+    "Answer":"HCL Group."
+  },
+  {
+    "Question":"What kind of courses does GUVI offer? ",
+    "Answer":"GUVI offers courses in Full Stack Development, Data Science, Automation Testing, UI\/UX, DevOps, Digital Marketing, VFX, CAD, and more."
+  },
+  {
+    "Question":"What are Zen Class Programs? ",
+    "Answer":"Zen Class Programs are career-focused programs by GUVI that come with placement support."
+  },
+  {
+    "Question":"What languages are GUVI courses offered in? ",
+    "Answer":"Courses are offered in Tamil, Telugu, Hindi, Kannada, Marathi, Bengali, and English."
+  },
+  {
+    "Question":"What is the duration of GUVI courses? ",
+    "Answer":"Typically between 3 to 5 months."
+  },
+  {
+    "Question":"What does GUVI stand for? ",
+    "Answer":"GUVI stands for Grab Ur Vernacular Imprint."
+  },
+  {
+    "Question":"When was GUVI founded? ",
+    "Answer":"GUVI started in 2011 as a YouTube channel and was incorporated as a company in 2014."
+  },
+  {
+    "Question":"Where is GUVI headquartered? ",
+    "Answer":"GUVI is headquartered in Chennai, Tamil Nadu."
+  },
+  {
+    "Question":"Who are the founders of GUVI? ",
+    "Answer":"Arun Prakash, Late Sridevi Arun Prakash, and SP Balamurugan."
+  },
+  {
+    "Question":"What is the parent company of GUVI? ",
+    "Answer":"HCL Group."
+  },
+  {
+    "Question":"What kind of courses does GUVI offer? ",
+    "Answer":"GUVI offers courses in Full Stack Development, Data Science, Automation Testing, UI\/UX, DevOps, Digital Marketing, VFX, CAD, and more."
+  },
+  {
+    "Question":"What are Zen Class Programs? ",
+    "Answer":"Zen Class Programs are career-focused programs by GUVI that come with placement support."
+  },
+  {
+    "Question":"What languages are GUVI courses offered in? ",
+    "Answer":"Courses are offered in Tamil, Telugu, Hindi, Kannada, Marathi, Bengali, and English."
+  },
+  {
+    "Question":"What is the duration of GUVI courses? ",
+    "Answer":"Typically between 3 to 5 months."
+  },
+  {
+    "Question":"What is the fee range for Zen Class programs? ",
+    "Answer":"78,000  to 1.25 lakhs with EMI options available."
+  },
+  {
+    "Question":"How do I get certified for a course?",
+    "Answer":"To get certified in a course, you need to successfully complete all quizzes and submissions (if applicable) with 100% progression."
+  },
+  {
+    "Question":"My progression is 100%, but the certificate isn't loading\/generating. What should I do?",
+    "Answer":"Please clear your browser history and try again. If the issue persists, log out and log back in, then try again."
+  },
+  {
+    "Question":"I don't know the answer to the quiz of a course, can I still get certified?",
+    "Answer":"Please ensure you complete the quiz with the correct answer. You can attempt the quiz an unlimited number of times."
+  },
+  {
+    "Question":"How can I change my name on my certificate\/profile?",
+    "Answer":"Please follow these steps: Go to your profile -> Edit your name -> Refresh your browser (CTRL + F5) -> Regenerate your certificate."
+  },
+  {
+    "Question":"Where can I find the certificate? Where is the 'Get Certified' option?",
+    "Answer":"You need to click on the 'Get Certified' option at the end of the course modules in the table of contents. It will only be displayed after you complete all the lessons with 100% progress."
+  },
+  {
+    "Question":"I cannot download my certificate, a blank screen appears, what should I do?",
+    "Answer":"The certificate should automatically download. Please check your downloads folder, the certificate will download as a PDF file. For better results, try using Google Chrome."
+  },
+  {
+    "Question":"Why is Course X not available in Y language?",
+    "Answer":"We sincerely apologize for the inconvenience. We are committed to offering courses in as many regional languages as possible. Please send your request to info@guvi.in."
+  },
+  {
+    "Question":"What can I do with GEEKOINS?",
+    "Answer":"GUVI users can use GEEKOINS to purchase courses and 'run counts,' useful in CodeKata, WebKata, and Debugging, and redeem coupons from the rewards section."
+  },
+  {
+    "Question":"What is your refund policy? I want a refund for my course.",
+    "Answer":"Refunds are processed within 7 working days from the date you fill out the refund form, which will be sent to your email by our team."
+  },
+  {
+    "Question":"Where can I find the courses?",
+    "Answer":"Please visit https:\/\/www.guvi.in\/courses to view our course library."
+  },
+  {
+    "Question":"I'm not able to log in. Please help.",
+    "Answer":"Please refresh your browser (CTRL + SHIFT + R for Windows, CMD + SHIFT + R for Mac) and try again. Also, consider trying a different browser."
+  },
+  {
+    "Question":"What are the Zen-Class live courses?",
+    "Answer":"Courses include Full Stack Development, Automation & Testing, Data Science, UI\/UX, DevOps, Data Engineering, and Business Analytics."
+  },
+  {
+    "Question":"What are some popular courses offered by GUVI?",
+    "Answer":"Python IIT-M Pravartak Certified, Java, Mobile Hacking, C Programming, AWS, Angular, and Dark Web."
+  },
+  {
+    "Question":"What self-paced courses are available?",
+    "Answer":"Premium Pass, Paid Courses, Free Courses, and Course Combos."
+  },
+  {
+    "Question":"What are GUVI's practice platforms?",
+    "Answer":"CodeKata, WebKata, SQLKata, Debugging, and IDE."
+  },
+  {
+    "Question":"What is CodeKata?",
+    "Answer":"CodeKata hosts coding problems asked by top MNCs and helps improve coding skills for interviews."
+  },
+  {
+    "Question":"What is SQLKata?",
+    "Answer":"SQLKata is a series of SQL challenges inspired by real-world interview problems."
+  },
+  {
+    "Question":"What is WebKata?",
+    "Answer":"WebKata offers frontend practice on HTML, CSS, and JavaScript in a cloud-based module."
+  },
+  {
+    "Question":"What is Debugging on GUVI?",
+    "Answer":"Debugging challenges help learners fix broken code and improve programming skills."
+  },
+  {
+    "Question":"What are GUVI products?",
+    "Answer":"HackerKID, Placement Preparation, GUVI for Corporates, and StudyTonight."
+  },
+  {
+    "Question":"What are GUVI resources?",
+    "Answer":"Success Stories, Learn Hub, Free Resources, Blog, Web Stories, Rewards, Refer a Friend, and Become an Affiliate."
+  },
+  {
+    "Question":"How do I get certified for a course?",
+    "Answer":"To get certified, you must complete all quizzes and submissions (if applicable) with 100% progression."
+  },
+  {
+    "Question":"How does GUVI's 7-day refund policy work?",
+    "Answer":"GUVI offers a 7-day refund window for eligible courses. Refunds will not be processed after this period."
+  },
+  {
+    "Question":"Where will I receive the refund amount?",
+    "Answer":"Refunds will be credited to the original payment method used during course purchase."
+  },
+  {
+    "Question":"What are the additional reasons for denied refunds?",
+    "Answer":"Refunds can be denied for refund abuse, excessive requests, course consumption before request, or account violations."
+  },
+  {
+    "Question":"What about refunds for bundles purchased through a third party?",
+    "Answer":"Contact the third-party vendor directly, as GUVI cannot process refunds for such purchases."
+  },
+  {
+    "Question":"What is HackerKID?",
+    "Answer":"HackerKID is a GUVI initiative offering gamified coding lessons for kids aged 7-17."
+  },
+  {
+    "Question":"What is GUVI for Corporates?",
+    "Answer":"Its a one-stop solution for training, hiring, and CSR activities offered by GUVI."
+  },
+  {
+    "Question":"What is the Premium Pass at GUVI?",
+    "Answer":"A one-year subscription that gives access to all GUVI courses including beginner and advanced topics."
+  },
+  {
+    "Question":"Is a GUVI certificate worth it?",
+    "Answer":"Yes, GUVI certificates are valuable and have received positive feedback from learners."
+  },
+  {
+    "Question":"Does GUVI provide 100% placement?",
+    "Answer":"GUVI offers 100% job placement support in programs like Zen Class, not guaranteed placements."
+  },
+  {
+    "Question":"Is the GUVI platform real or fake?",
+    "Answer":"GUVI is a registered and IIT-Madras incubated edtech company."
+  },
+  {
+    "Question":"Is GUVI owned by HCL?",
+    "Answer":"Yes, HCL acquired a majority stake in GUVI in 2022."
+  },
+  {
+    "Question":"What is the cost of a full stack course at GUVI?",
+    "Answer":"Costs vary from 6,999 to 3.69 lakh depending on features and learning mode."
+  },
+  {
+    "Question":"Which course is best for the future?",
+    "Answer":"Fields like AI, Data Science, Cybersecurity, Robotics, and Business Analytics offer promising careers."
+  },
+  {
+    "Question":"How trusted is GUVI's placement support?",
+    "Answer":"GUVI provides job support, but placement depends on student effort, test clearance, and preparation."
+  },
+  {
+    "Question":"Are GUVI courses useful?",
+    "Answer":"Yes, courses are well-structured with strong curriculum, mentorship, and project-based learning."
+  },
+  {
+    "Question":"How do I get certified for a course?",
+    "Answer":"To get certified, you must complete all quizzes and submissions (if applicable) with 100% progression."
+  },
+  {
+    "Question":"How does GUVI's 7-day refund policy work?",
+    "Answer":"GUVI offers a 7-day refund window for eligible courses. Refunds will not be processed after this period."
+  },
+  {
+    "Question":"Where will I receive the refund amount?",
+    "Answer":"Refunds will be credited to the original payment method used during course purchase."
+  },
+  {
+    "Question":"What are the additional reasons for denied refunds?",
+    "Answer":"Refunds can be denied for refund abuse, excessive requests, course consumption before request, or account violations."
+  },
+  {
+    "Question":"What about refunds for bundles purchased through a third party?",
+    "Answer":"Contact the third-party vendor directly, as GUVI cannot process refunds for such purchases."
+  },
+  {
+    "Question":"What is HackerKID?",
+    "Answer":"HackerKID is a GUVI initiative offering gamified coding lessons for kids aged 7-17."
+  },
+  {
+    "Question":"What is GUVI for Corporates?",
+    "Answer":"Its a one-stop solution for training, hiring, and CSR activities offered by GUVI."
+  },
+  {
+    "Question":"What is the Premium Pass at GUVI?",
+    "Answer":"A one-year subscription that gives access to all GUVI courses including beginner and advanced topics."
+  },
+  {
+    "Question":"Is a GUVI certificate worth it?",
+    "Answer":"Yes, GUVI certificates are valuable and have received positive feedback from learners."
+  },
+  {
+    "Question":"Does GUVI provide 100% placement?",
+    "Answer":"GUVI offers 100% job placement support in programs like Zen Class, not guaranteed placements."
+  },
+  {
+    "Question":"Is the GUVI platform real or fake?",
+    "Answer":"GUVI is a registered and IIT-Madras incubated edtech company."
+  },
+  {
+    "Question":"Is GUVI owned by HCL?",
+    "Answer":"Yes, HCL acquired a majority stake in GUVI in 2022."
+  },
+  {
+    "Question":"What is the cost of a full stack course at GUVI?",
+    "Answer":"Costs vary from 6,999 to 3.69 lakh depending on features and learning mode."
+  },
+  {
+    "Question":"Which course is best for the future?",
+    "Answer":"Fields like AI, Data Science, Cybersecurity, Robotics, and Business Analytics offer promising careers."
+  },
+  {
+    "Question":"How trusted is GUVI's placement support?",
+    "Answer":"GUVI provides job support, but placement depends on student effort, test clearance, and preparation."
+  },
+  {
+    "Question":"Are GUVI courses useful?",
+    "Answer":"Yes, courses are well-structured with strong curriculum, mentorship, and project-based learning."
+  },
+  {
+    "Question":"How do I get certified for a course?",
+    "Answer":"To get certified, you must complete all quizzes and submissions (if applicable) with 100% progression."
+  },
+  {
+    "Question":"How does GUVI's 7-day refund policy work?",
+    "Answer":"GUVI offers a 7-day refund window for eligible courses. Refunds will not be processed after this period."
+  },
+  {
+    "Question":"Where will I receive the refund amount?",
+    "Answer":"Refunds will be credited to the original payment method used during course purchase."
+  },
+  {
+    "Question":"What are the additional reasons for denied refunds?",
+    "Answer":"Refunds can be denied for refund abuse, excessive requests, course consumption before request, or account violations."
+  },
+  {
+    "Question":"What about refunds for bundles purchased through a third party?",
+    "Answer":"Contact the third-party vendor directly, as GUVI cannot process refunds for such purchases."
+  },
+  {
+    "Question":"What is HackerKID?",
+    "Answer":"HackerKID is a GUVI initiative offering gamified coding lessons for kids aged 7-17."
+  },
+  {
+    "Question":"What is GUVI for Corporates?",
+    "Answer":"Its a one-stop solution for training, hiring, and CSR activities offered by GUVI."
+  },
+  {
+    "Question":"What is the Premium Pass at GUVI?",
+    "Answer":"A one-year subscription that gives access to all GUVI courses including beginner and advanced topics."
+  },
+  {
+    "Question":"Is a GUVI certificate worth it?",
+    "Answer":"Yes, GUVI certificates are valuable and have received positive feedback from learners."
+  },
+  {
+    "Question":"Does GUVI provide 100% placement?",
+    "Answer":"GUVI offers 100% job placement support in programs like Zen Class, not guaranteed placements."
+  },
+  {
+    "Question":"Is the GUVI platform real or fake?",
+    "Answer":"GUVI is a registered and IIT-Madras incubated edtech company."
+  },
+  {
+    "Question":"Is GUVI owned by HCL?",
+    "Answer":"Yes, HCL acquired a majority stake in GUVI in 2022."
+  },
+  {
+    "Question":"Which course is best for the future?",
+    "Answer":"Fields like AI, Data Science, Cybersecurity, Robotics, and Business Analytics offer promising careers."
+  },
+  {
+    "Question":"How trusted is GUVI's placement support?",
+    "Answer":"GUVI provides job support, but placement depends on student effort, test clearance, and preparation."
+  },
+  {
+    "Question":"Are GUVI courses useful?",
+    "Answer":"Yes, courses are well-structured with strong curriculum, mentorship, and project-based learning."
+  },
+  {
+    "Question":"How do I get certified for a course?",
+    "Answer":"To get certified, you must complete all quizzes and submissions (if applicable) with 100% progression."
+  },
+  {
+    "Question":"How does GUVI's 7-day refund policy work?",
+    "Answer":"GUVI offers a 7-day refund window for eligible courses. Refunds will not be processed after this period."
+  },
+  {
+    "Question":"Where will I receive the refund amount?",
+    "Answer":"Refunds will be credited to the original payment method used during course purchase."
+  },
+  {
+    "Question":"What are the additional reasons for denied refunds?",
+    "Answer":"Refunds can be denied for refund abuse, excessive requests, course consumption before request, or account violations."
+  },
+  {
+    "Question":"What about refunds for bundles purchased through a third party?",
+    "Answer":"Contact the third-party vendor directly, as GUVI cannot process refunds for such purchases."
+  },
+  {
+    "Question":"What is HackerKID?",
+    "Answer":"HackerKID is a GUVI initiative offering gamified coding lessons for kids aged 7-17."
+  },
+  {
+    "Question":"What is GUVI for Corporates?",
+    "Answer":"Its a one-stop solution for training, hiring, and CSR activities offered by GUVI."
+  },
+  {
+    "Question":"What is the Premium Pass at GUVI?",
+    "Answer":"A one-year subscription that gives access to all GUVI courses including beginner and advanced topics."
+  },
+  {
+    "Question":"Is a GUVI certificate worth it?",
+    "Answer":"Yes, GUVI certificates are valuable and have received positive feedback from learners."
+  },
+  {
+    "Question":"Does GUVI provide 100% placement?",
+    "Answer":"GUVI offers 100% job placement support in programs like Zen Class, not guaranteed placements."
+  },
+  {
+    "Question":"Is the GUVI platform real or fake?",
+    "Answer":"GUVI is a registered and IIT-Madras incubated edtech company."
+  },
+  {
+    "Question":"Is GUVI owned by HCL?",
+    "Answer":"Yes, HCL acquired a majority stake in GUVI in 2022."
+  },
+  {
+    "Question":"What is the cost of a full stack course at GUVI?",
+    "Answer":"Costs vary from 6,999 to 3.69 lakh depending on features and learning mode."
+  },
+  {
+    "Question":"Which course is best for the future?",
+    "Answer":"Fields like AI, Data Science, Cybersecurity, Robotics, and Business Analytics offer promising careers."
+  },
+  {
+    "Question":"How trusted is GUVI's placement support?",
+    "Answer":"GUVI provides job support, but placement depends on student effort, test clearance, and preparation."
+  },
+  {
+    "Question":"Are GUVI courses useful?",
+    "Answer":"Yes, courses are well-structured with strong curriculum, mentorship, and project-based learning."
+  },
+  {
+    "Question":"How do I get certified for a course?",
+    "Answer":"To get certified, you must complete all quizzes and submissions (if applicable) with 100% progression."
+  },
+  {
+    "Question":"How does GUVI's 7-day refund policy work?",
+    "Answer":"GUVI offers a 7-day refund window for eligible courses. Refunds will not be processed after this period."
+  },
+  {
+    "Question":"Where will I receive the refund amount?",
+    "Answer":"Refunds will be credited to the original payment method used during course purchase."
+  },
+  {
+    "Question":"What are the additional reasons for denied refunds?",
+    "Answer":"Refunds can be denied for refund abuse, excessive requests, course consumption before request, or account violations."
+  },
+  {
+    "Question":"What about refunds for bundles purchased through a third party?",
+    "Answer":"Contact the third-party vendor directly, as GUVI cannot process refunds for such purchases."
+  },
+  {
+    "Question":"What is HackerKID?",
+    "Answer":"HackerKID is a GUVI initiative offering gamified coding lessons for kids aged 7-17."
+  },
+  {
+    "Question":"What is GUVI for Corporates?",
+    "Answer":"Its a one-stop solution for training, hiring, and CSR activities offered by GUVI."
+  },
+  {
+    "Question":"What is the Premium Pass at GUVI?",
+    "Answer":"A one-year subscription that gives access to all GUVI courses including beginner and advanced topics."
+  },
+  {
+    "Question":"Is a GUVI certificate worth it?",
+    "Answer":"Yes, GUVI certificates are valuable and have received positive feedback from learners."
+  },
+  {
+    "Question":"Does GUVI provide 100% placement?",
+    "Answer":"GUVI offers 100% job placement support in programs like Zen Class, not guaranteed placements."
+  },
+  {
+    "Question":"Is the GUVI platform real or fake?",
+    "Answer":"GUVI is a registered and IIT-Madras incubated edtech company."
+  },
+  {
+    "Question":"Is GUVI owned by HCL?",
+    "Answer":"Yes, HCL acquired a majority stake in GUVI in 2022."
+  },
+  {
+    "Question":"Which course is best for the future?",
+    "Answer":"Fields like AI, Data Science, Cybersecurity, Robotics, and Business Analytics offer promising careers."
+  },
+  {
+    "Question":"How trusted is GUVI's placement support?",
+    "Answer":"GUVI provides job support, but placement depends on student effort, test clearance, and preparation."
+  },
+  {
+    "Question":"Are GUVI courses useful?",
+    "Answer":"Yes, courses are well-structured with strong curriculum, mentorship, and project-based learning."
+  },
+  {
+    "Question":"How do I get certified for a course?",
+    "Answer":"To get certified, you must complete all quizzes and submissions (if applicable) with 100% progression."
+  },
+  {
+    "Question":"How does GUVI's 7-day refund policy work?",
+    "Answer":"GUVI offers a 7-day refund window for eligible courses. Refunds will not be processed after this period."
+  },
+  {
+    "Question":"Where will I receive the refund amount?",
+    "Answer":"Refunds will be credited to the original payment method used during course purchase."
+  },
+  {
+    "Question":"What are the additional reasons for denied refunds?",
+    "Answer":"Refunds can be denied for refund abuse, excessive requests, course consumption before request, or account violations."
+  }
+]
