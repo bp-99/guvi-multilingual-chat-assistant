@@ -48,3 +48,5 @@ A multilingual chatbot built with Gradio, Sentence Transformers, FAISS, and Deep
 
 ## License
 This project is for educational purposes. Please check individual package licenses for commercial use.
+
+Huggingface spaces : https://huggingface.co/spaces/bp-99/guvi-multilingual-chat-assistant
